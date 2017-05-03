@@ -1,0 +1,4 @@
+﻿  BinaryTreeApp.cpp
+c:\users\quick\documents\visual studio 2015\projects\morsefinal\morsefinal\binarytreeapp.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  MorseFinal.vcxproj -> C:\Users\quick\Documents\Visual Studio 2015\Projects\MorseFinal\Debug\MorseFinal.exe
+  MorseFinal.vcxproj -> C:\Users\quick\Documents\Visual Studio 2015\Projects\MorseFinal\Debug\MorseFinal.pdb (Partial PDB)
